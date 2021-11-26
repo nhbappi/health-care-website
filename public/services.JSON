@@ -1,0 +1,52 @@
+[
+    {
+    "id": 1,
+    "name": "Pet Checkup",
+    "description": "Your dog can't tell you in words that his teeth hurt, nor can your cat confide that her leg doesn't feel right. Fortunately, information like that—and much more—can be determined during a pet's physical exam.When you consider that our pets age at approximately six to seven times the rate that we do, it's easy to see that yearly veterinary exams are important not only for vaccinations and vital statistics but also to notice any early signs of disease or other problems,states the University of Illinois College of Veterinary Medicine Web site.",
+   "Cost": 200,
+ "image": "https://media.istockphoto.com/photos/examining-a-kitten-picture-id638142534?b=1&k=20&m=638142534&s=170667a&w=0&h=oPhqHUVw28aAzobVJWPBBBsnU9axjUgnZvK8yneoKys="
+},
+
+{
+    "id": 2,
+    "name": "Vaccination",
+    "Cost": 142,
+    "description": "All our practices offer routine vaccinations as part of their standard service and recommend cats, dogs and rabbits are protected against these diseases at an annual appointment. A vaccination appointment is much more than just a quick injection. Our vets and nurses will conduct a full health check on your pet to make sure that nothing is amiss, and will also make sure to listen to any of your worries or concerns. Have a think ahead of time too your vet will ask you questions been, and if you have noticed any changes.",
+    "image": "https://media.istockphoto.com/photos/photograph-of-a-herd-of-cows-being-inspected-by-assessors-picture-id472652032?b=1&k=20&m=472652032&s=170667a&w=0&h=Te9fLlJdDnkBRYjvRBzorOS_abDLvxkq7CkX0-SAe1w="
+},
+
+{
+    "id": 3,
+    "name": "Grooming",
+    "Cost": 700,
+     "description": "Dog grooming training might be the perfect career move if you love dogs and have a creative flair. As an ABC student you’ll have access to the best dog grooming courses online. Pet grooming gives you the opportunity to build long-lasting relationships with clients and their dogs pets. Our program combines an online dog grooming course with invaluable hands-on training.  Keep reading to learn how to become a dog groomer in just one year. Dog grooming training might be the perfect career move if you love dogs and have!",
+    "image": "https://media.istockphoto.com/photos/a-chinese-female-dog-groomer-grooming-a-cavalier-king-charles-spaniel-picture-id969077342?b=1&k=20&m=969077342&s=170667a&w=0&h=5mL9rZZcB5PpOUi0JI76wOh8ejQCtZipcnHpMqxxbCI="
+    
+},
+{
+    "id": 4,
+    "name": "Surgery",
+    "Cost": 400,
+    "description": "Pets will generallyneed some anesthesia before a surgical procedure,so it’s good for you to be prepared for this possibility. Your animal may need more anesthesia than another because of excitability.Pre-anesthetic sedation is useful fordown before a procedure.Anesthesia ensures that the pet will not  moving around, in reaction to discomfort as our vet performssurgery. When the procedure has concluded,the anesthesiologist will reduce the anesthesia consciousness.the anesthesitaionthis animals now authentic",
+    "image": "https://media.istockphoto.com/photos/veterinary-surgeons-operating-on-a-dog-at-a-clinic-picture-id1162639323?b=1&k=20&m=1162639323&s=170667a&w=0&h=VLRCB9yljt9bCxaInRYjeso0lgED2lTzR0v6H3tk4i4="
+    
+},
+{
+    "id": 5,
+    "name": "Combing",
+    "Cost": 800,
+    "description": "As Seen on TV True Touch Five Finger Pet Deshedding Glove is a durable glove that’s designed to remove shedding hair. The silicone five finger glove features 175 soft grooming tips that comb through your pet’s fur. As you gently stroke him, the tips reach deep into the fur to loosen and lift away dirt and debris, stimulating the skin and creating a relaxing message sensation for a healthy, shiny top coat. Perfect for long haired dogs and cats.Dog grooming training might be the perfect career move if you love dogs and have ",
+    "image": "https://media.istockphoto.com/photos/woman-using-a-comb-brush-the-persian-cat-picture-id599974692?b=1&k=20&m=599974692&s=170667a&w=0&h=hEFwEDO4wKcIIqaR8wddMex5YmixontggCZ_lDOumME="
+    
+},
+{
+    "id": 6,
+    "name": "Blueberry Facials",
+    
+    "Cost": 500,
+    "description": "A blueberry facial is a special dog shampoo derived from you guessed it blueberries. This can help decrease the appearance of tear stains in dogs while brightening their coats. It’s a hypoallergenic, tearless, and lick-safe option that naturally exfoliates as it cleans and hydrates.Blueberry facials offer the benefits of antioxidants and vitamins A, D, & E to itchy skin, irritated skin, and even dogs that could benefit from a little pet cologne. Blueberry facials offer the benefits of antioxidants",
+    
+    "image": "https://media.istockphoto.com/photos/yorkshire-terrier-with-cucumbers-on-her-eyes-at-grooming-salon-spa-picture-id1297804383?b=1&k=20&m=1297804383&s=170667a&w=0&h=4hE4b2rrFc5z3N-cf_6fh4RPig8nvx-3CqjlUDRebgY="
+    
+}
+]
